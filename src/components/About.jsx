@@ -7,7 +7,6 @@ function About() {
       id="about"
       className="pt-12 pb-16 bg-transparent transition-colors duration-500"
     >
-        <img src="../images/aboutil.png" alt="" className="w-100 absolute right-0" />
       <div className="flex flex-col lg:flex-row items-start gap-8">
         <motion.div
           initial={{ scale: 0.9, opacity: 0 }}
