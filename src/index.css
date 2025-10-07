@@ -1,0 +1,12 @@
+#typeWritter {
+  font-family: "BBH Sans Bogle", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+#footerName{
+    font-family: "Licorice";
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-size: 19px;
+}
