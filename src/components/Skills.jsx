@@ -81,7 +81,6 @@ function Skills() {
               </motion.li>
             ))}
           </ul>
-          <img src="../images/skillsil.png" alt=""  className="w-100 absolute bottom-8 right-2 "/>
         </GlassCard>
       </div>
     </section>
